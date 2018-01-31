@@ -1,6 +1,7 @@
 ### Branch 
 - *master* is output to console
 - *dev* is output to json file
+- the main difference between *master* and *dev* is Program.cs
 
 ### How to run?
 - config csc to computer environment
@@ -16,4 +17,4 @@ csc /out:Program.exe Program.cs Vehicle.cs IVehicle.cs Car.cs Plane.cs Boat.cs
 ### Output with json file
 - get code whose branch is *dev*
 - compile to get exe file
-- execute exe file to get json file int the same directory as Program.exe
+- execute exe file to get json file name car.json in the same directory as Program.exe
