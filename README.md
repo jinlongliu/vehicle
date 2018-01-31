@@ -3,12 +3,12 @@
 - Dev is output to json file
 
 ### How to run?
-- config csc to compute environment
-- get code to your compute
-- enter the directory VehicleProject in the source code directory
-- execute command below
+- config csc to computer environment
+- get code to your computer
+- enter the directory named VehicleProject in the source code directory
+- execute command below in Powershell or cmd termianl 
 ```
 csc /out:Program.exe Program.cs Vehicle.cs IVehicle.cs Car.cs Plane.cs Boat.cs
 ```
-- get an exe file named Program.exe 
-- double click and watch the output of console
+- u will get an exe file named Program.exe 
+- double click the exe file and watch the output of console
