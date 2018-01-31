@@ -1,6 +1,6 @@
 ### Branch 
-- Master is output to console
-- Dev is output to json file
+- *master* is output to console
+- *dev* is output to json file
 
 ### How to run?
 - config csc to computer environment
