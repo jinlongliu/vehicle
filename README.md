@@ -12,3 +12,8 @@ csc /out:Program.exe Program.cs Vehicle.cs IVehicle.cs Car.cs Plane.cs Boat.cs
 ```
 - u will get an exe file named Program.exe 
 - double click the exe file and watch the output of console
+
+### Output with json file
+- get code whose branch is *dev*
+- compile to get exe file
+- execute exe file to get json file int the same directory as Program.exe
